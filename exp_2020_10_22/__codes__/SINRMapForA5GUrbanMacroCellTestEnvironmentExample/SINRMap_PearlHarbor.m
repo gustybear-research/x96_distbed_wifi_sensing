@@ -8,7 +8,7 @@
 % based on the urban environment with high user density and traffic loads focusing 
 % on pedestrian and vehicular users (Dense Urban-eMBB). The test environment includes 
 % a hexagonal cell network as well as a custom antenna array that is implemented 
-% using Phased Array System Toolbox™.
+% using Phased Array System Toolboxâ„¢.
 %% Define Network Layout
 % The test environment guidelines for 5G technologies reuse the test network 
 % layout for 4G technologies defined in Section 8.3 of Report ITU-R M.2135-1 [2], 
